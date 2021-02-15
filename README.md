@@ -1,11 +1,9 @@
-<div id="header" style="
-  text-align: center;
-  background-color: rgb(117, 192, 149, 0.57);
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin: 0;
-">
   <h1 style="
+    text-align: center;
+    background-color: rgb(117, 192, 149, 0.57);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0;
     font-size: 64px;
     margin-bottom: 10px;
     padding-bottom: 10px;
@@ -30,6 +28,5 @@
   <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp
 
   <h3> Interested Tech </h3>
-</div>
 
 <!-- swagger, prettier, Firebase, Mongo, Postgresql, MariaDB, REST API, filebeat, logstash,  -->
