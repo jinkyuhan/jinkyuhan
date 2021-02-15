@@ -2,9 +2,9 @@
 <br>
 
 <div align=center>
-  <h2> 🛠 Skilled Tech Stack 🛠 </h2>
+  <h3> 🛠 Skilled Tech Stack 🛠 </h3>
+  <p> 경험한 프로젝트에서 자주 사용하여 숙련된 기술들 </p>
   <br>
-  <h1> 경험한 프로젝트에서 자주 사용하여 숙련된 기술들 </h1>
 </div>
 <br>
 <h1> JavaScript, TypeScript </h1>
