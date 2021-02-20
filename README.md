@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/Java-4D7290?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jest-A82620?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/ExpressJS-FFFFFF?style=flat-square&logo=Express&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=Docker&logoColor=blue"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/DockerSwarm-FFFFFF?style=flat-square&logo=DockerSwarm&logoColor=blue"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/DockerSwarm-blue?style=flat-square&logo=DockerSwarm&logoColor=white"/></a>&nbsp
 
   <h3> ✋ Used Tech Stack ✋ </h3>
   <p> 한번이라도 프로젝트에 사용해봤거나, 일부기능을 사용하여 작성한 결과물이 있는 기술들 </p>
