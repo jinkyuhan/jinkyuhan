@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/DockerSwarm-FFFFFF?style=flat-square&logo=DockerSwarm&logoColor=blue"/></a>&nbsp
 
   <h3> ✋ Used Tech Stack ✋ </h3>
+  <p> 한번이라도 프로젝트에 사용해봤거나, 일부기능을 사용하여 작성한 결과물이 있는 기술들 </p>
   <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp
 
