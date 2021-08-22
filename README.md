@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Jinkyuhan&fontSize=70&animation=twinkling)
 
 <div align=center>
+  Blog: https://jinkyuhan.github.io
+</div>
+<div align=center>
   <h3> 🛠  Skilled Tech Stack 🛠 </h3>
   <p> 경험한 프로젝트에서 자주 사용하거나 최근 깊게 사용해서 숙련된 기술들 </p>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
