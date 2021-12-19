@@ -6,10 +6,8 @@
   <a href="https://jinkyuhan.github.io/resume"><strong> Resume </strong></a><br>
   <a href="https://jinkyuhan.github.io/cover-letter"><strong> Cover letter </strong></a><br>
 
-
-
-
-
+  
+<!-- 
   <h3> 🛠  Skilled Tech Stack 🛠 </h3>
   <p> 경험한 프로젝트에서 자주 사용하고 익숙한 기술들 </p>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
@@ -30,6 +28,6 @@
   <img src="https://img.shields.io/badge/Jest-A82620?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swagger-green?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
 
-
+ -->
 </div>
 <!-- prettier, Firebase, Mongo, Postgresql, MariaDB, REST API, filebeat, logstash,  -->
